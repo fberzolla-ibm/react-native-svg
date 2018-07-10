@@ -12,9 +12,8 @@ buildscript {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 27
     //noinspection GradleDependency
-    buildToolsVersion "26.0.3"
 
     defaultConfig {
         minSdkVersion 16
